@@ -52,7 +52,7 @@ module.exports = function merge(param){ //param is an array of objects
 			}
 		}
 	}
-	console.log(toSet)
+	
 	let result = {};
 	for (let prop in toSet){
 		let val = toSet[prop];
