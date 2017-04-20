@@ -1,0 +1,34 @@
+{
+  "name": "tidymerge",
+  "version": "1.0.0",
+  "description": "Merge objects and arrays",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidysource/tidymerge.git"
+  },
+  "keywords": [
+    "object",
+    "merge",
+    "array"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tidysource/tidymerge/issues"
+  },
+  "homepage": "https://github.com/tidysource/tidymerge#readme",
+  "dependencies": {
+    "tidytype": "^1.0.2",
+    "tidyval": "^1.0.0"
+  },
+  "devDependencies": {
+    "tidytest": "^1.0.1"
+  }
+}
