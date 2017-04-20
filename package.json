@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/tidysource/tidymerge#readme",
   "dependencies": {
+    "rmleading": "^1.0.1",
     "tidytype": "^1.0.2",
     "tidyval": "^1.0.0"
   },
